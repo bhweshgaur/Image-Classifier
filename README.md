@@ -21,7 +21,7 @@ You can run notebook file by simply opening you terminal and writing
 jupyter-notebook Project_Image_Classifier_Project.ipynb
 ```
 
-If you wanna run application file, then in terminal you need to write 
+To run application file, open terminal and write 
 ```bash
 python predict.py <image_path> model.h5 <value of K(integer)>
 ```
